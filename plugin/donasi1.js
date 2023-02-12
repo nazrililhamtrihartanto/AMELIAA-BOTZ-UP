@@ -21,8 +21,8 @@ conn.send3ButtonDoc(m.chat, str, botdate,'Sewa Bot','.sewa','QR+PAYMENT','.donas
     mediaUrl: "tautanwa",
     mediaType: "tautanwa",
     description: "https://www.instagram.com/p/CevoCg5hG-p/?utm_source=ig_web_copy_link", 
-    title: 'AMELIA PUTRI SEPTIANY',
-    body: bottime,
+    judul : 'Nazril
+    tubuh : bottime ,
     thumbnail: thumb,
     sourceUrl: syt
   }
