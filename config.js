@@ -50,19 +50,19 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6283863727401', 'Amelia-MD', true],
+['6281393160368', '𝙉𝙖𝙯𝙧𝙞𝙡𝙊𝙛𝙛𝙞𝙘𝙞𝙖𝙡𝙡', true],
 ]
 global.autoketik = true //status auto mengetik (auto typing)
 global.available = true //status online (online)
 // Other
-global.mods = ['6283863727401']
-global.prems = ['6283863727401']
-global.nomorbot = '6283863727740'
-global.nameown = 'PutraModz'
-global.nomorown = '6283863727401'
-global.nomorown1 = '6282214729677'
-global.nomorown2 = '6282214729677'
-global.nomorwa = '082214729677'
+global.mods = ['6281393160368']
+global.prems = ['6281393160368']
+global.nomorbot = '6287817971411'
+global.nameown = '𝙉𝙖𝙯𝙧𝙞𝙡𝙊𝙛𝙛𝙞𝙘𝙞𝙖𝙡𝙡'
+global.nomorown = '6287817971411'
+global.nomorown1 = '6281393160368'
+global.nomorown2 = '6281393160368'
+global.nomorwa = '081393160368'
 global.limitawal = {
 
     premium: "Infinity",
@@ -74,48 +74,48 @@ global.limitawal = {
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.gcname = 'Amelia MD'//nama group kalian
-global.author = 'PutraModz' //ganti aja cuyyy
-global.namebot = '​Amelia-Md' //nama bot luh
-global.wm = '© Amelia-Md' //ganti aja
-global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg' //bebas
-global.wm = 'Amelia-Md ' //wm nyaa kocak
+global.gcname = 'official bot whatsaap'//nama group kalian
+global.author = '𝙉𝙖𝙯𝙧𝙞𝙡𝙊𝙛𝙛𝙞𝙘𝙞𝙖𝙡𝙡' //ganti aja cuyyy
+global.namebot = '𝙉𝙖𝙯𝙧𝙞𝙡𝙈𝘿' //nama bot luh
+global.wm = '© 𝙉𝙖𝙯𝙧𝙞𝙡𝙊𝙛𝙛𝙞𝙘𝙞𝙖𝙡𝙡' //ganti aja
+global.media = 'https://telegra.ph/file/20dceccf7b2f224eaeec2.jpg' //bebas
+global.wm = '𝙉𝙖𝙯𝙧𝙞𝙡𝙈𝘿 ' //wm nyaa kocak
 global.watermark = wm //bebas
-global.wm2 = 'PutraModz' //ganti ajaa
-global.wm3 = 'Amelia Botz by PutraModz' // ganti jugaa
+global.wm2 = '𝙉𝙖𝙯𝙧𝙞𝙡𝙊𝙛𝙛𝙞𝙘𝙞𝙖𝙡𝙡' //ganti ajaa
+global.wm3 = 'Nazril Botz by NazrilModz' // ganti jugaa
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`//ga usah dehhh 
 global.bottime = `T I M E : ${wktuwib}` //ini juga ga usah 
-global.titlebot = `Amelia-Md | PutraModz` //ganti aja
-global.stickpack = 'Amelia-Modz' //ganti 
-global.stickauth = `© Amelia-Md` //gantii 
+global.titlebot = `𝙉𝙖𝙯𝙧𝙞𝙡𝙈𝘿 | 𝙉𝙖𝙯𝙧𝙞𝙡𝙊𝙛𝙛𝙞𝙘𝙞𝙖𝙡𝙡` //ganti aja
+global.stickpack = '𝙉𝙖𝙯𝙧𝙞𝙡𝙈𝘿' //ganti 
+global.stickauth = `© 𝙉𝙖𝙯𝙧𝙞𝙡𝙈𝘿` //gantii 
 global.week = `${week} ${date}` //Gak usah
 global.wibb = `${wktuwib}` // Gak usah 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= 'Amelia Putri septiany' //ganti 
-global.nameown2 = 'PutraModz' //ganti 
+global.nameown1= 'NazrilKecteh' //ganti 
+global.nameown2 = '𝙉𝙖𝙯𝙧𝙞𝙡𝙊𝙛𝙛𝙞𝙘𝙞𝙖𝙡𝙡' //ganti 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Tunggu Sebentar Kak...'
-global.lynk = 'https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff'//ganti jadi link gc luh
+global.lynk = 'https://chat.whatsapp.com/LTTPLOd5dNpKWw9R8caHEH'//ganti jadi link gc luh
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/l4c1f2r' //ganti jadi ig mu
-global.sgh = 'https://github.com/Lucife-Putra' //github
-global.sgc = 'https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff' //group whatsapp
-global.gcwangsaf = 'https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff' //Group wa juga 
-global.fakeyt = 'https://youtu.be/dTNrtQagzmc' //Yt jika punya
+global.sig = 'https://instagram.com/' //ganti jadi ig mu
+global.sgh = 'https://github.com/nazrililhamtrihartanto' //github
+global.sgc = 'https://chat.whatsapp.com/LTTPLOd5dNpKWw9R8caHEH' //group whatsapp
+global.gcwangsaf = 'https://chat.whatsapp.com/LTTPLOd5dNpKWw9R8caHEH' //Group wa juga 
+global.fakeyt = 'https://youtu.be/' //Yt jika punya
 global.sdc = '-' //discord klo ga punya ga usah biarin aja
 global.sfb = 'https://www.facebook.com/' // facebook
-global.snh = 'https://youtube.com/@Putra_Modz_' //yt klo punya 
-global.wame = 'https://api.whatsapp.com/send?phone=+6283863727401' //Tautan Wa Kalian
+global.snh = 'https://youtube.com/' //yt klo punya 
+global.wame = 'https://api.whatsapp.com/send?phone=+6281393160368' //Tautan Wa Kalian
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '083864727401' //Isi aja klo punya 
+global.pdana = 'https://telegra.ph/file/8de0b9a5e2fd90983210d.jpg' //Isi aja klo punya 
 global.povo = '-' //Isi Aja klo punya 
-global.pgopay = '082214729677' //Isi aja klo punya 
+global.pgopay = '-' //Isi aja klo punya 
 global.plinkaja = '-' //link aja,isi Klo punya
-global.ppulsa = '083863727401' //Isi aja klo punya 
-global.ppulsa2 = '082214729677' //Isi aja klo punya 
+global.ppulsa = '-' //Isi aja klo punya 
+global.ppulsa2 = '-' //Isi aja klo punya 
 global.psaweria = 'https://telegra.ph/file/98338a583efeb3d34a70b.jpg' //Ganti aja ini Link gambar QR
 
 //bebas cuyyy yg atas mahh 
@@ -160,8 +160,8 @@ global.md = '_In progress, please wait..._'
 global.benar = '𝙶𝚘𝚘𝚍 𝙹𝚘𝚋𝚋! ◕◡◕'
 global.salah = '𝙽𝚘𝚝 𝙱𝚊𝚍! ◕◠◕'
 global.dikit = "𝙳𝚒𝚔𝚒𝚝 𝙻𝚊𝚐𝚒,𝚂𝚎𝚖𝚊𝚗𝚐𝚊𝚝!!"
-global.syt = 'https://youtube.com/@Putra_Modz_' //youtube
-global.sytv = 'https://youtu.be/7JDmbvzJM1c'//link video yt
+global.syt = 'https://youtube.com/' //youtube
+global.sytv = 'https://youtu.be/'//link video yt
 global.packname = wm
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ RPG GAME ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
@@ -307,15 +307,15 @@ global.drtf = 'text/rtf'
 //OPTIONS
 global.optsnsfw = true // Untuk mematikan Dan Menyalakan Nsfw
 global.premnsfw = true // Nsfw Mode Premium?
-global.thumb = 'https://telegra.ph/file/57e0d97afd136caa10bce.jpg'
-global.thumb2 = 'https://telegra.ph/file/d5795084974fa38d388ce.jpg' //Main Thumbnail
-global.thumbnail = 'https://telegra.ph/file/974d7f7ff054d5491ae82.jpg'
-global.imagebot = 'https://telegra.ph/file/57e0d97afd136caa10bce.jpg'
-global.logo = 'https://telegra.ph/file/b2d502771e4e0901f88cb.jpg'
+global.thumb = 'https://telegra.ph/file/20dceccf7b2f224eaeec2.jpg'
+global.thumb2 = 'https://telegra.ph/file/20dceccf7b2f224eaeec2.jpg' //Main Thumbnail
+global.thumbnail = 'https://telegra.ph/file/20dceccf7b2f224eaeec2.jpg'
+global.imagebot = 'https://telegra.ph/file/20dceccf7b2f224eaeec2.jpg'
+global.logo = 'https://telegra.ph/file/20dceccf7b2f224eaeec2.jpg'
 global.giflogo = 'https://telegra.ph/file/d99857d74715351bdcd6c.mp4'
 global.giflogo2 = 'https://telegra.ph/file/d99857d74715351bdcd6c.mp4'
 global.zykomd = 'https://telegra.ph/file/568a7bba190f80c9f5cc6.mp4'
-global.thumbs = ['https://telegra.ph/file/5b4b91ec8ba37e2c441c7.jpg']
+global.thumbs = ['https://telegra.ph/file/f1dd2dc8fd430f6a7cd6d.jpg']
 global.thumbnailUrl = [
   'https://telegra.ph/file/81260a8b9e8cff26d2b48.jpg', 'https://telegra.ph/file/ac4928f0824a2a0492737.jpg',
   'https://telegra.ph/file/6359b013bc7e52c3b346f.jpg', 'https://telegra.ph/file/d43c89a5d2da72875ec05.jpg',
@@ -559,10 +559,10 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 
 
 global.dtu = '?????????'
-global.urlnya = "https://www.instagram.com/l4c1f2r"
+global.urlnya = "https://www.instagram.com/"
 global.dtc = '???? ?????'
-global.phn = '0822 1472-9677'
-global.ultahowner = 'Febuari 02 2023' //ultah luh 😭
+global.phn = '0813 9316 0368'
+global.ultahowner = 'Desembrr 24 2023' //ultah luh 😭
 
 
 //?? 肓??????帕 ? JNGN DI UBAH ? 帕??????肓 ??
